@@ -91,9 +91,13 @@ The 2026 reject rate is 2.40%, with 21K units rejected and total cost of poor qu
 
 Root causes are spread evenly. Handling and packing lead at about 14%, followed by process variation, curing temperature, pattern and measurement, machine calibration, operator method, and material variation, each between 11% and 13%. No single cause dominates, so fixing one problem will not resolve the loss. The change has to come from a cross-functional quality process.
 
-> **Immediate action:** Introduce inline quality checkpoints at sewing and finishing, focused on stitch and size checks. Pair these with a root-cause review that spans handling, process, and measurement rather than targeting one cause.
+Size and fit is the leading reason for customer returns in 2026, accounting for roughly a third of all returns and more than twice the next reason. Size variance is also the second-largest defect by cost in the production data, at about 0.47M EGP. This suggests that sizing problems start on the factory floor and reach customers, rather than being a fitting issue alone. Reducing size variance through inline measurement checks at cutting and sewing should cut both production cost and returns. Quality-related returns should be reported on a basis that includes size, so that the full cost of sizing is visible.
 
----
+Next steps
+
+Confirm the exact size return count and its share, using a table visual with the Returns Count measure filtered to size.
+Check whether size returns are flagged as quality-related, and update the 28.70% figure if they aren’t.
+Check whether the size returns come from one product family or are spread across the range. If they’re concentrated, the report can name the products.
 
 ## 8. Downtime and Printing Performance
 Printing machines recorded 1,340.6 hours of downtime in 2026. The largest reasons were setup and changeover (312 hours, 23%), mechanical faults (295 hours, 22%), and planned maintenance (284 hours, 21%). Material waiting accounted for 208 hours, operator shortage for 143 hours, and electrical faults for 99 hours.
