@@ -1,5 +1,24 @@
 # Integrated Performance Review: From Market Demand to Factory Execution for El Sharnouby
 
+## Contents
+
+| # | Section |
+| :-: | :--- |
+| — | [Executive Summary](#executive-summary) |
+| 1 | [Profit Leakage in Sales](#1-profit-leakage-in-sales) |
+| 2 | [Channel Economics: Volume Versus Value](#2-channel-economics-volume-versus-value) |
+| 3 | [Customer Retention and Value](#3-customer-retention-and-value) |
+| 4 | [Inventory and Demand Planning](#4-inventory-and-demand-planning) |
+| 5 | [Marketing Effectiveness and Attribution](#5-marketing-effectiveness-and-attribution) |
+| 6 | [Production Output and Bottlenecks](#6-production-output-and-bottlenecks) |
+| 7 | [Cost of Poor Quality](#7-cost-of-poor-quality) |
+| 8 | [Downtime and Printing Performance](#8-downtime-and-printing-performance) |
+| 9 | [Supply Chain and Materials](#9-supply-chain-and-materials) |
+| 10 | [Priorities](#10-priorities) |
+| — | [Data Notes](#data-notes) |
+
+---
+
 ## Executive Summary
 
 Revenue is growing, but growth is not converting into healthy profit. Total revenue reached 142.83M in 2025, up 6.20% year over year, yet gross margin was only 15.38%, leaving gross profit of 21.97M. Discounts totaled 60.61M, close to 30% of gross sales. Across all four years, the pattern is the same: 421.34M in revenue, a 15.40% margin, and 178.75M in discounts. The discount rate has stayed steady, which makes this a structural issue rather than a one-year event.
@@ -29,7 +48,7 @@ Discounts are concentrated on the category that already sells best. Rather than 
 ## 2. Channel Economics: Volume Versus Value
 
 | Channel | 2025 revenue | Share of revenue | Gross margin (before returns) | Gross margin (after returns) | YoY growth | Return rate (% of orders) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | Wholesale | 121.88M | 85.33% | 11.83% | 10.30% | 5.41% | 1.81% |
 | Online | 11.18M | 7.83% | 35.14% | 29.88% | 28.44% | 7.80% |
 | Retail | 9.77M | 6.84% | 37.05% | 34.84% | -3.91% | 3.65% |
